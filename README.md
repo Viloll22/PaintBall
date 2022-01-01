@@ -16,15 +16,10 @@ Al elegir el equipo, el jugador cambia de piel y se convierte en la primera pers
 
 Debe agregar estas funciones a su server.cfg para que funcione.
 
-''
-start paintball_map
-
-start esx_paintball
-
-start gun
-
-start InteractSound
-''
+- start paintball_map
+- start esx_paintball
+- start gun
+- start InteractSound
 
 Puede hacer lo que quiera con la edición de recursos, el uso compartido, etc.
 
