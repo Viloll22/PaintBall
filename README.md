@@ -18,8 +18,11 @@ Debe agregar estas funciones a su server.cfg para que funcione.
 
 ''
 start paintball_map
+
 start esx_paintball
+
 start gun
+
 start InteractSound
 ''
 
