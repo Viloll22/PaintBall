@@ -28,6 +28,6 @@ Puede hacer lo que quiera con la edición de recursos, el uso compartido, etc.
 ¡Buen paintball!
 
 # Arena
-! [captura de pantalla] (https://cdn.discordapp.com/attachments/433059481815875595/433497065838870528/unknown.png)
+[captura de pantalla] (https://cdn.discordapp.com/attachments/433059481815875595/433497065838870528/unknown.png)
 # En el juego
-! [captura de pantalla] (https://cdn.discordapp.com/attachments/433059481815875595/433496798816894986/unknown1.png)
+[captura de pantalla] (https://cdn.discordapp.com/attachments/433059481815875595/433496798816894986/unknown1.png)
